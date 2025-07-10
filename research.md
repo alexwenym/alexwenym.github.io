@@ -6,6 +6,8 @@ title: Research
 ### Selected Publications
 
 <ul>
+  <li><a href="https://arxiv.org/abs/2506.04491" target="_blank"> GollumFit: An IceCube Open-Source Framework for Binned-Likelihood Neutrino Telescope Analyses</a> <br>
+  IceCube Collaboration </li>
   <li><a href="https://doi.org/10.1103/PhysRevLett.132.061001" target="_blank"> Detecting High-Energy Neutrinos from Galactic Supernovae with ATLAS</a> <br>
   Alex Y. Wen, Carlos A. Argüelles, Ali Kheirandish, Kohta Murase </li>
   <li><a href="https://doi.org/10.48550/arXiv.2406.01745" target="_blank"> SIREN: An Open Source Neutrino Injection Toolkit</a> <br> 
