@@ -8,6 +8,10 @@ title: Research
 <ul>
   <li><a href="https://arxiv.org/abs/2506.04491" target="_blank"> GollumFit: An IceCube Open-Source Framework for Binned-Likelihood Neutrino Telescope Analyses</a> <br>
   IceCube Collaboration </li>
+  <li><a href="https://doi.org/10.1103/yypk-zmb8" target="_blank"> Ultrahigh-Energy Event KM3-230213A within the Global Neutrino Landscape</a> <br>
+  KM3NeT Collaboration </li>
+  <li><a href="https://arxiv.org/abs/2502.12070" target="_blank"> KM3NeT Constraint on Lorentz-Violating Superluminal Neutrino Velocity</a> <br>
+  KM3NeT Collaboration </li>
   <li><a href="https://doi.org/10.1103/PhysRevLett.132.061001" target="_blank"> Detecting High-Energy Neutrinos from Galactic Supernovae with ATLAS</a> <br>
   Alex Y. Wen, Carlos A. Argüelles, Ali Kheirandish, Kohta Murase </li>
   <li><a href="https://doi.org/10.48550/arXiv.2406.01745" target="_blank"> SIREN: An Open Source Neutrino Injection Toolkit</a> <br> 
@@ -18,6 +22,8 @@ title: Research
 
 ### Talks and contributions
 
+* **Talk: Updated Earth Tomography Using Atmospheric Neutrinos at IceCube** <br>
+   International Cosmic Ray Conference (ICRC) 2025, Geneva, Switzerland 
 * **Poster: Detecting High-Energy Neutrinos from Galactic Supernovae With ATLAS** <br>
    Neutrino 2024, Milan, Italy
 * **Talk: Detecting Neutrinos and Searching for New Ones** <br> 
