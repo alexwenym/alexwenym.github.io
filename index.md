@@ -10,9 +10,9 @@ image: profile.jpg
 
 <p style="text-align:center">e-mail: alexwen [at] g.harvard.edu </p>
 
----
+<!-- ---
 
-<p style="text-align:center"><a href="/assets/files/CV_Alex_Wen.pdf" target="_blank">CV</a> &ensp; <a href="https://github.com/alexwenym" target="_blank">GitHub</a> </p>
+<p style="text-align:center"><a href="/assets/files/CV_Alex_Wen.pdf" target="_blank">CV</a> &ensp; <a href="https://github.com/alexwenym" target="_blank">GitHub</a> </p> -->
 
 ---
 

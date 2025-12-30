@@ -1,0 +1,53 @@
+- title: "GollumFit: An IceCube Open-Source Framework for Binned-Likelihood Neutrino Telescope Analyses"
+  url: "https://arxiv.org/abs/2506.04491"
+  authors: "IceCube Collaboration"
+  year: 2025
+  kind: "paper"
+  venue: "arXiv"
+  icon: "🧰"
+  tags: ["software", "fitting", "IceCube"]
+
+- title: "Ultrahigh-Energy Event KM3-230213A within the Global Neutrino Landscape"
+  url: "https://doi.org/10.1103/yypk-zmb8"
+  authors: "KM3NeT Collaboration"
+  year: 2025
+  kind: "paper"
+  venue: "Physical Review X"
+  icon: "🌊"
+  tags: ["UHE", "KM3NeT"]
+
+- title: "KM3NeT Constraint on Lorentz-Violating Superluminal Neutrino Velocity"
+  url: "https://arxiv.org/abs/2502.12070"
+  authors: "KM3NeT Collaboration"
+  year: 2025
+  kind: "paper"
+  venue: "Nature Physics"
+  icon: "🌊"
+  tags: ["UHE", "KM3NeT"]
+
+- title: "Detecting High-Energy Neutrinos from Galactic Supernovae with ATLAS"
+  url: "https://doi.org/10.1103/PhysRevLett.132.061001"
+  authors: "Alex Y. Wen, Carlos A. Argüelles, Ali Kheirandish, Kohta Murase"
+  year: 2024
+  kind: "paper"
+  venue: "Physical Review Letters"
+  icon: "🌌"
+  # tags: ["ATLAS", "supernovae"]
+
+- title: "SIREN: An Open Source Neutrino Injection Toolkit"
+  url: "https://doi.org/10.48550/arXiv.2406.01745"
+  authors: "Austin Schneider, Nicholas W. Kamp, Alex Y. Wen"
+  year: 2024
+  kind: "paper"
+  venue: "Computer Physics Communications"
+  icon: "🧰"
+  tags: ["software"]
+
+- title: "A stable corridor for toroidal plasma compression"
+  url: "https://doi.org/10.1088/1741-4326/abe68c"
+  authors: "Dylan Brennan et al."
+  year: 2021
+  kind: "paper"
+  venue: "Nuclear Fusion"
+  icon: "🌀"
+  # tags: ["plasma", "stability"]

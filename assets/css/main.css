@@ -509,3 +509,21 @@ th, td {
 .fa-rss-square:hover {
 	color: #ff6600;
 }
+
+/* .pub-card { border: 4px solid red !important; }
+.pub-grid { display: grid !important; } */
+
+.pub-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+.pub-card{display:grid;grid-template-columns:44px 1fr;gap:12px;padding:14px;border:1px solid rgba(0,0,0,.10);border-radius:14px;background:rgba(255,255,255,.75)}
+.pub-icon{width:44px;height:44px;border-radius:999px;display:grid;place-items:center;font-size:18px;background:rgba(0,0,0,.06)}
+.pub-title{margin:0;font-weight:650;line-height:1.25}
+.pub-meta{margin:6px 0 0 0;opacity:.75;font-size:.95em}
+.pub-tags{margin-top:10px;display:flex;gap:8px;flex-wrap:wrap}
+.pub-tag{font-size:.80em;padding:3px 10px;border-radius:999px;border:1px solid rgba(0,0,0,.12);background:rgba(0,0,0,.03)}
+/* @media (min-width:860px){.pub-grid{grid-template-columns:1fr 1fr}} */
