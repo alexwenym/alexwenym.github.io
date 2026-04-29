@@ -5,6 +5,7 @@
   kind: "paper"
   venue: "arXiv"
   icon: "🧰"
+  role: first
   tags: ["software", "fitting", "IceCube"]
 
 - title: "Ultrahigh-Energy Event KM3-230213A within the Global Neutrino Landscape"
@@ -23,6 +24,7 @@
   kind: "paper"
   venue: "Nature Physics"
   icon: "🌊"
+  role: first
   tags: ["UHE", "KM3NeT"]
 
 - title: "Detecting High-Energy Neutrinos from Galactic Supernovae with ATLAS"
@@ -32,6 +34,7 @@
   kind: "paper"
   venue: "Physical Review Letters"
   icon: "🌌"
+  role: first
   # tags: ["ATLAS", "supernovae"]
 
 - title: "SIREN: An Open Source Neutrino Injection Toolkit"

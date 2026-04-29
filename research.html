@@ -3,13 +3,24 @@ layout: page
 title: Research
 ---
 
-<h3>Selected Publications (with my direct and essential contributions)</h3>
+<p>
+  I work on high-energy neutrino physics. 
+  I’m interested in neutrino flavor, and using neutrinos as tools to tell us more about astronomy, planets, and fundamental physics. 
+  I’m also the current maintainer of the GollumFit inference software.
+</p>
+
+<h3>Selected Publications</h3>
+
+<p class="pub-legend">
+  <span class="pub-legend-swatch pub-legend-first"></span> First author &nbsp;
+  <span class="pub-legend-swatch pub-legend-contrib"></span> Direct and essential contribution &nbsp;
+</p>
 
 {% assign pubs = site.data.pubs | sort: "year" | reverse %}
 
 <div class="pub-grid" markdown="0">
 {% for p in pubs %}
-  <div class="pub-card">
+  <div class="pub-card{% if p.role == 'first' %} pub-card--first{% endif %}">
     <div class="pub-icon">{{ p.icon | default: "📄" }}</div>
     <div>
       <p class="pub-title">
