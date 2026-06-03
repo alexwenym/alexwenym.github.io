@@ -1,3 +1,13 @@
+- title: "Visible Inelasticity as a Probe of Tau Flavor Content of Astrophysical Neutrinos"
+  url: "https://doi.org/10.48550/arXiv.2605.29105"
+  authors: "Alex Y. Wen, Carlos A. Argüelles, Sergio Palomares-Ruiz"
+  year: 2026
+  kind: "paper"
+  venue: "arXiv"
+  icon: "🌌"
+  role: first
+  tags: ["flavor", "IceCube", "tau"]
+
 - title: "GollumFit: An IceCube Open-Source Framework for Binned-Likelihood Neutrino Telescope Analyses"
   url: "https://doi.org/10.1016/j.cpc.2026.110195"
   authors: "IceCube Collaboration"
