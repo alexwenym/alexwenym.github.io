@@ -20,7 +20,7 @@ title: Research
 
 <div class="pub-grid" markdown="0">
 {% for p in pubs %}
-  <div class="pub-card{% if p.role == 'first' %} pub-card--first{% endif %}">
+  <div class="pub-card{% if p.role == 'first' %} pub-card--first{% else %} pub-card--contrib{% endif %}">
     <div class="pub-icon">{{ p.icon | default: "📄" }}</div>
     <div>
       <p class="pub-title">
@@ -46,18 +46,22 @@ title: Research
 
 <h3>Public Talks and Posters</h3>
 
+<p class="pub-legend">
+  <span class="pub-legend-swatch pub-legend-first"></span> Invited &nbsp;
+  <span class="pub-legend-swatch pub-legend-contrib"></span> Contributed &nbsp;
+</p>
+
 <div class="pub-grid">
-{% assign talks = site.data.talks | sort: "year" | reverse %}
+{% assign talks = site.data.talks | sort: "date" | reverse %}
 {% for t in talks %}
-  <div class="pub-card">
+  <div class="pub-card{% if t.kind contains 'invited' %} pub-card--invited{% else %} pub-card--contrib{% endif %}">
     <div class="pub-icon">{{ t.icon | default: "🎤" }}</div>
     <div>
       <p class="pub-title">{{ t.title }}</p>
       <p class="pub-meta">
-        {{ t.kind | capitalize }}
-        {% if t.venue %} · {{ t.venue }}{% endif %}
+        {{ t.venue }}
         {% if t.location %} · {{ t.location }}{% endif %}
-        {% if t.year %} · {{ t.year }}{% endif %}
+        {% if t.date %} · {{ t.date | date: "%B %-d, %Y" }}{% endif %}
       </p>
     </div>
   </div>

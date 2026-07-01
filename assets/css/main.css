@@ -592,6 +592,8 @@ th, td {
 .pub-card{display:grid;grid-template-columns:44px 1fr;gap:12px;padding:14px;border:1px solid rgba(0,0,0,.10);border-radius:14px;background:rgba(255,255,255,.75);transition:box-shadow 0.2s ease, transform 0.2s ease}
 .pub-card:hover{box-shadow:0 4px 12px rgba(0,0,0,.08);transform:translateY(-2px)}
 .pub-card--first{border-color:#c0392b;border-width:2px}
+.pub-card--invited{border-color:#c0392b;border-width:2px}
+.pub-card--contrib{border-color:rgba(0,0,0,.25);border-width:2px}
 .pub-legend{font-size:.88em;opacity:.75;margin-bottom:12px;display:flex;align-items:center;gap:6px}
 .pub-legend-swatch{display:inline-block;width:22px;height:14px;border-radius:4px;border-width:2px;border-style:solid}
 .pub-legend-first{border-color:#c0392b}

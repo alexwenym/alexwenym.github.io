@@ -1,55 +1,57 @@
+# Fill in `date:` as YYYY-MM-DD (e.g. 2025-07-16). Talks are sorted by date, newest first.
+
 - title: "Using Neutrinos and the Weak Force to Measure the Earth with IceCube"
   kind: "invited talk"
   venue: "Fermilab NPC Seminar"
   location: "Fermilab"
-  year: 2026
+  date: 2026-04-16
   icon: "🎤"
 
 - title: "Using Neutrinos and the Weak Force to Measure the Earth with IceCube"
   kind: "invited talk"
   venue: "Northwestern University HEP Seminar"
   location: "Chicago"
-  year: 2025
+  date:   2025-12-01
   icon: "🎤"
 
 - title: "Updated Earth Tomography Using Atmospheric Neutrinos at IceCube"
   kind: "contributed talk"
   venue: "ICRC 2025"
   location: "Geneva"
-  year: 2025
+  date:   2025-07-21
   icon: "🎤"
 
 - title: "Earth Tomography with Atmospheric Neutrinos at IceCube"
   kind: "contributed talk"
   venue: "Academia Sinica Physics Seminar"
   location: "Taipei"
-  year: 2025
+  date:  2025-03-19
   icon: "🎤"
 
 - title: "Detecting High-Energy Neutrinos from Galactic Supernovae With ATLAS"
   kind: "contributed poster"
   venue: "International Conference on Neutrino Physics and Astrophysics"
   location: "Milan"
-  year: 2024
+  date:  2024-06-18
   icon: "🪧"
 
 - title: "Detecting Neutrinos and Searching for New Ones"
   kind: "contributed talk"
   venue: "TDLI (Shanghai Jiaotong) Seminar"
   location: "Shanghai"
-  year: 2024
+  date:  2024-03-25
   icon: "🎤"
 
 - title: "Detecting High-Energy Neutrinos from Galactic Supernovae With ATLAS"
   kind: "contributed poster"
   venue: "International Neutrino Summer School"
   location: "Bologna"
-  year: 2024
+  date:   2024-06-03
   icon: "🪧"
 
 - title: "Possibility of Detecting High-Energy Neutrinos from Galactic Supernovae With ATLAS"
   kind: "contributed poster & talk"
   venue: "MAYORANA Summer School"
   location: "Modica"
-  year: 2023
+  date:  2023-07-05
   icon: "🎤"
