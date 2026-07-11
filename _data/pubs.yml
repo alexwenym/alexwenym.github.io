@@ -1,3 +1,13 @@
+- title: "High-Energy Neutrino Tomography of the Earth's Interior with IceCube"
+  url: "https://doi.org/10.48550/arXiv.2607.02644"
+  authors: "IceCube Collaboration"
+  year: 2026
+  kind: "paper"
+  venue: "arXiv"
+  icon: "🌍"
+  role: first
+  tags: ["earth", "IceCube"]
+
 - title: "Visible Inelasticity as a Probe of Tau Flavor Content of Astrophysical Neutrinos"
   url: "https://doi.org/10.48550/arXiv.2605.29105"
   authors: "Alex Y. Wen, Carlos A. Argüelles, Sergio Palomares-Ruiz"
