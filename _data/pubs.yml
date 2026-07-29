@@ -6,7 +6,6 @@
   venue: "arXiv"
   icon: "🌍"
   role: first
-  tags: ["earth", "IceCube"]
 
 - title: "Visible Inelasticity as a Probe of Tau Flavor Content of Astrophysical Neutrinos"
   url: "https://doi.org/10.48550/arXiv.2605.29105"
@@ -16,7 +15,6 @@
   venue: "arXiv"
   icon: "🌌"
   role: first
-  tags: ["flavor", "IceCube", "tau"]
 
 - title: "GollumFit: An IceCube Open-Source Framework for Binned-Likelihood Neutrino Telescope Analyses"
   url: "https://doi.org/10.1016/j.cpc.2026.110195"
@@ -26,7 +24,6 @@
   venue: "Computer Physics Communications"
   icon: "🧰"
   role: first
-  tags: ["software", "fitting", "IceCube"]
 
 - title: "Ultrahigh-Energy Event KM3-230213A within the Global Neutrino Landscape"
   url: "https://doi.org/10.1103/yypk-zmb8"
@@ -35,7 +32,6 @@
   kind: "paper"
   venue: "Physical Review X"
   icon: "🌊"
-  tags: ["UHE", "KM3NeT"]
 
 - title: "KM3NeT Constraint on Lorentz-Violating Superluminal Neutrino Velocity"
   url: "https://www.nature.com/articles/s42005-025-02347-z"
@@ -45,7 +41,6 @@
   venue: "Nature Physics"
   icon: "🌊"
   role: first
-  tags: ["UHE", "KM3NeT"]
 
 - title: "Detecting High-Energy Neutrinos from Galactic Supernovae with ATLAS"
   url: "https://doi.org/10.1103/PhysRevLett.132.061001"
@@ -55,7 +50,6 @@
   venue: "Physical Review Letters"
   icon: "🌌"
   role: first
-  # tags: ["ATLAS", "supernovae"]
 
 - title: "SIREN: An Open Source Neutrino Injection Toolkit"
   url: "https://doi.org/10.48550/arXiv.2406.01745"
@@ -64,7 +58,6 @@
   kind: "paper"
   venue: "Computer Physics Communications"
   icon: "🧰"
-  tags: ["software"]
 
 - title: "A stable corridor for toroidal plasma compression"
   url: "https://doi.org/10.1088/1741-4326/abe68c"
@@ -73,4 +66,3 @@
   kind: "paper"
   venue: "Nuclear Fusion"
   icon: "🌀"
-  # tags: ["plasma", "stability"]

@@ -601,6 +601,7 @@ th, td {
 .pub-icon{width:44px;height:44px;border-radius:999px;display:grid;place-items:center;font-size:18px;background:rgba(0,0,0,.06)}
 .pub-title{margin:0;font-weight:650;line-height:1.25}
 .pub-meta{margin:6px 0 0 0;opacity:.75;font-size:.95em}
+.pub-meta + .pub-meta{margin-top:0}
 .pub-tags{margin-top:10px;display:flex;gap:8px;flex-wrap:wrap}
 .pub-tag{font-size:.80em;padding:3px 10px;border-radius:999px;border:1px solid rgba(0,0,0,.12);background:rgba(0,0,0,.03)}
 /* @media (min-width:860px){.pub-grid{grid-template-columns:1fr 1fr}} */

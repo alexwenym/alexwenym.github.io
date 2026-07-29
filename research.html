@@ -26,19 +26,8 @@ title: Research
       <p class="pub-title">
         <a href="{{ p.url }}" target="_blank" rel="noopener">{{ p.title }}</a>
       </p>
-      <p class="pub-meta">
-        {{ p.authors }}
-        {% if p.venue %} · {{ p.venue }}{% endif %}
-        {% if p.year %} · {{ p.year }}{% endif %}
-      </p>
-
-      {% if p.tags %}
-      <div class="pub-tags">
-        {% for t in p.tags %}
-          <span class="pub-tag">{{ t }}</span>
-        {% endfor %}
-      </div>
-      {% endif %}
+      <p class="pub-meta">{{ p.authors }}</p>
+      <p class="pub-meta"><em>{{ p.venue }}{% if p.venue and p.year %}, {% endif %}{{ p.year }}</em></p>
     </div>
   </div>
 {% endfor %}
@@ -61,8 +50,10 @@ title: Research
       <p class="pub-meta">
         {{ t.venue }}
         {% if t.location %} · {{ t.location }}{% endif %}
-        {% if t.date %} · {{ t.date | date: "%B %-d, %Y" }}{% endif %}
       </p>
+      {% if t.date %}
+      <p class="pub-meta"><em>{{ t.date | date: "%B %-d, %Y" }}</em></p>
+      {% endif %}
     </div>
   </div>
 {% endfor %}
