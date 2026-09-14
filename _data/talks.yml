@@ -14,6 +14,27 @@
   date:   2025-12-01
   icon: "🎤"
 
+- title: "Using inelasticity in neutrino telescopes to measure astrophysical ντ"
+  kind: "contributed talk"
+  venue: "TeV Particle Astrophysics 2026"
+  location: "Tendo (Japan)"
+  date:   2026-08-31
+  icon: "🎤"
+
+- title: "Visible inelasticity as a probe of tau flavor content of astrophysical neutrinos "
+  kind: "contributed poster"
+  venue: "Invisibles 2026"
+  location: "A Coruña (Spain)"
+  date:  2026-08-10
+  icon: "🪧"
+
+- title: "Neutrino Attenuation Earth Tomography Results from IceCube"
+  kind: "contributed talk"
+  venue: "Neutrino Geoscience 2025"
+  location: "Kingston (Canada)"
+  date:   2025-10-29
+  icon: "🎤"
+
 - title: "Updated Earth Tomography Using Atmospheric Neutrinos at IceCube"
   kind: "contributed talk"
   venue: "ICRC 2025"
@@ -45,13 +66,13 @@
 - title: "Detecting High-Energy Neutrinos from Galactic Supernovae With ATLAS"
   kind: "contributed poster"
   venue: "International Neutrino Summer School"
-  location: "Bologna"
+  location: "Bologna (Italy)"
   date:   2024-06-03
   icon: "🪧"
 
 - title: "Possibility of Detecting High-Energy Neutrinos from Galactic Supernovae With ATLAS"
   kind: "contributed poster & talk"
   venue: "MAYORANA Summer School"
-  location: "Modica"
+  location: "Modica (Italy)"
   date:  2023-07-05
   icon: "🎤"
